@@ -1,0 +1,49 @@
+{
+  "common": {
+    "welcome": "ಸ್ವಾಗತ",
+    "login": "ಲಾಗಿನ್",
+    "signup": "ಸೈನ್ ಅಪ್",
+    "logout": "ಲಾಗ್ ಔಟ್",
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+  },
+  "loan": {
+    "newLoan": "ಹೊಸ ಸಾಲ",
+    "amount": "ಮೊತ್ತ",
+    "duration": "ಅವಧಿ",
+    "interest": "ಬಡ್ಡಿ",
+    "submit": "ಸಲ್ಲಿಸು"
+  },
+  "transaction": {
+    "history": "ವಹಿವಾಟು ಇತಿಹಾಸ",
+    "date": "ದಿನಾಂಕ",
+    "type": "ಪ್ರಕಾರ",
+    "status": "ಸ್ಥಿತಿ"
+  },
+  "home": "ಮುಖಪುಟ",
+  "signUp": "ಲೆಂಡ್ಕನೆಕ್ಟ್ಗೆ ಸೈನ್ ಅಪ್ ಮಾಡಿ",
+  "language": "ಭಾಷೆ",
+  "homeDescription": "ವಿಶ್ವಾಸಾರ್ಹ ಸಾಲದಾತರು ಮತ್ತು ಸಾಲಗಾರರೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ. ನಿಮ್ಮ ಸಾಲಕ್ಕೆ ಉತ್ತಮ ದರಗಳನ್ನು ಪಡೆಯಿರಿ ಅಥವಾ ನಿಮ್ಮ ಹಣವನ್ನು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಹೂಡಿಕೆ ಮಾಡಿ.",
+  "borrower": "ಸಾಲಗಾರ",
+  "lender": "ಸಾಲದಾತ",
+  "firstName": "ಮೊದಲ ಹೆಸರು",
+  "lastName": "ಕೊನೆಯ ಹೆಸರು",
+  "age": "ವಯಸ್ಸು",
+  "phoneNumber": "ಫೋನ್ ನಂಬರ್",
+  "address": "ವಿಳಾಸ",
+  "proofOfAddress": "ವಿಳಾಸದ ಪುರಾವೆ",
+  "ageProof": "ವಯಸ್ಸಿನ ಪುರಾವೆ",
+  "uploadFile": "ಫೈಲ್ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+  "fileTypes": "PDF, PNG, JPG 10MB ವರೆಗೆ",
+  "validIdProof": "ಮಾನ್ಯ ಸರ್ಕಾರಿ ID (ಆಧಾರ್, PAN, ಪಾಸ್ಪೋರ್ಟ್)",
+  "submit": "ಸಲ್ಲಿಸಿ",
+  "amount": "ಮೊತ್ತ",
+  "tenure": "ಅವಧಿ",
+  "months": "ತಿಂಗಳುಗಳು",
+  "purpose": "ಉದ್ದೇಶ",
+  "interestRate": "ಬಡ್ಡಿ ದರ",
+  "loanRequestSubmitted": "ಸಾಲದ ವಿನಂತಿಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ",
+  "date": "ದಿನಾಂಕ",
+  "type": "ಪ್ರಕಾರ",
+  "status": "ಸ್ಥಿತಿ",
+  "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+}

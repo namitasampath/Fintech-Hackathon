@@ -1,0 +1,51 @@
+{
+  "common": {
+    "welcome": "স্বাগতম",
+    "login": "লগ ইন",
+    "signup": "নিবন্ধন করুন",
+    "logout": "লগ আউট",
+    "dashboard": "ড্যাশবোর্ড",
+    "language": "ভাষা"
+  },
+  "loan": {
+    "newLoan": "নতুন ঋণ",
+    "amount": "পরিমাণ",
+    "duration": "সময়কাল",
+    "interest": "সুদ",
+    "submit": "জমা দিন"
+  },
+  "transaction": {
+    "history": "লেনদেনের ইতিহাস",
+    "date": "তারিখ",
+    "type": "ধরন",
+    "status": "স্থিতি"
+  },
+  "home": "হোম",
+  "signUp": "লেন্ডকানেক্টে সাইন আপ করুন",
+  "login": "লগইন",
+  "language": "ভাষা",
+  "homeDescription": "বিশ্বস্ত ঋণদাতা এবং ঋণগ্রহীতার সাথে সংযোগ স্থাপন করুন। আপনার ঋণের জন্য সেরা হার পান বা আপনার অর্থ বুদ্ধিমানের সাথে বিনিয়োগ করুন।",
+  "borrower": "ঋণগ্রহীতা",
+  "lender": "ঋণদাতা",
+  "firstName": "নামের প্রথম অংশ",
+  "lastName": "নামের শেষ অংশ",
+  "age": "বয়স",
+  "phoneNumber": "ফোন নম্বর",
+  "address": "ঠিকানা",
+  "proofOfAddress": "ঠিকানার প্রমাণ",
+  "ageProof": "বয়সের প্রমাণ",
+  "uploadFile": "একটি ফাইল আপলোড করুন",
+  "fileTypes": "PDF, PNG, JPG 10MB পর্যন্ত",
+  "validIdProof": "বৈধ সরকারি ID (আধার, PAN, পাসপোর্ট)",
+  "submit": "জমা দিন",
+  "amount": "পরিমাণ",
+  "tenure": "মেয়াদ",
+  "months": "মাস",
+  "purpose": "উদ্দেশ্য",
+  "interestRate": "সুদ হার",
+  "loanRequestSubmitted": "ঋণের আবেদন সফলভাবে জমা দেওয়া হয়েছে",
+  "date": "তারিখ",
+  "type": "ধরন",
+  "status": "অবস্থা",
+  "completed": "সম্পন্ন"
+}
